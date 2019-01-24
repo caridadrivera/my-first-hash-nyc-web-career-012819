@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
- the_manifest = { "bones" => 5, 
+ the_manifest = { "whale bone corsets" => 5, 
                 "porcelain vases" => 2,
                 "oil paintings" => 3
                 }
@@ -38,6 +38,6 @@ def adding
 
   # return the shipping_manifest hash below
   
- return shipping_manifest
+  shipping_manifest
 
 end
